@@ -1,3 +1,4 @@
+sudo su -
 sudo apt install npm -y
 echo "npm install complete"
 npm install bufferutil@^4.0.1 -g
